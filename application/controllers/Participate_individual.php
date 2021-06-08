@@ -113,7 +113,7 @@ class Participate_individual extends CI_Controller{
 			if($this->form_validation->run())     
             {   
                 $params = array(
-					'registration_id' => $this->input->post('registration_id'),
+					'id' => $this->input->post('registration_id'),
 					'department' => $this->input->post('department'),
 					'email_id' => $this->input->post('email_id'),
 					'mobile_no' => $this->input->post('mobile_no'),

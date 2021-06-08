@@ -35,13 +35,13 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
       <a href="" class="w3-bar-item w3-button">Straight</a>
     </div>-->
     
-    <a href="" class='fas fa-user-alt' style='font-size:24px'>Makrand Lokhande</a>
+    <a href="" class='fas fa-user-alt' style='font-size:24px'>Makrand Lokhande</a></br>
     
-    <a href="" class='fas fa-user-alt' style='font-size:24px'>Aniket Shinde</a>
+    <a href="" class='fas fa-user-alt' style='font-size:24px'>Aniket Shinde</a></br>
     
-    <a href="" class='fas fa-user-alt' style='font-size:24px'>Surabhi kanade </a>
+    <a href="" class='fas fa-user-alt' style='font-size:24px'>Surabhi kanade </a></br>
     
-    <a href="" class='fas fa-user-alt' style='font-size:24px'>Vaishnavi Jadhav</a>
+    <a href="" class='fas fa-user-alt' style='font-size:24px'>Vaishnavi Jadhav</a></br>
   </div>
   <a href="footer" class="w3-bar-item w3-button w3-padding">Contact</a> 
   <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding" onclick="document.getElementById('newsletter').style.display='block'">Newsletter</a> 

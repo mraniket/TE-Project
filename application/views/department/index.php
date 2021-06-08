@@ -14,7 +14,7 @@
 						<th>Department Name</th>
 						<th>Actions</th>
                     </tr>
-                    <?php $i=1 foreach($department as $d){ ?>
+                    <?php $i=1; foreach($department as $d){ ?>
                     <tr>
 						<td><?php echo $i; ?></td>
 						<td><?php echo $d['department_name']; ?></td>
